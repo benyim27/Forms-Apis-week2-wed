@@ -1,0 +1,27 @@
+{
+  "name": "forms-apis-week2-wed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eheath30/Forms-Apis-week2-wed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eheath30/Forms-Apis-week2-wed/issues"
+  },
+  "homepage": "https://github.com/eheath30/Forms-Apis-week2-wed#readme",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "jest-environment-jsdom": "^28.1.1"
+  },
+  "jest":{
+    "testEnvironment": "jsdom"
+}
+}
